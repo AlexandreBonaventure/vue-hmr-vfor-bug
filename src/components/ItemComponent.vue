@@ -12,7 +12,7 @@ export default defineComponent({
 
 <template>
   <div>
-    <div>change my text here for triggering HMR: HERE</div>
+    <div>change my text here for triggering HMR: HER</div>
     <div>{{ item }}</div>
   </div>
 </template>
